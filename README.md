@@ -10,7 +10,7 @@ https://github.com/Efial - https://efial.wtf/
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Efial"><img src="https://avatars.githubusercontent.com/u/84471368?v=4?v=4?s=100" width="100px;" alt="Efial"/><br /><sub><b>Efial</b></sub></a><br /><a href="#Efial.Wtf" title="Tutorials">✅</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Efial"><img src="https://avatars.githubusercontent.com/u/84471368?v=4?v=4?s=100" width="100px;" alt="Efial"
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/remonsec"><img src="https://avatars2.githubusercontent.com/u/54717234?v=4?s=100" width="100px;" alt="Mehedi Hasan Remon"/><br /><sub><b>Mehedi Hasan Remon</b></sub></a><br /><a href="#tutorial-remonsec" title="Tutorials">✅</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://www.theinfosecguy.me"><img src="https://avatars3.githubusercontent.com/u/33570148?v=4?s=100" width="100px;" alt="Keshav Malik"/><br /><sub><b>Keshav Malik</b></sub></a><br /><a href="#tutorial-theinfosecguy" title="Tutorials">✅</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://0xd3vil.github.io/"><img src="https://avatars3.githubusercontent.com/u/32324065?v=4?s=100" width="100px;" alt="Vivek Kumar Yadav"/><br /><sub><b>Vivek Kumar Yadav</b></sub></a><br /><a href="#tutorial-0xd3vil" title="Tutorials">✅</a></td>
