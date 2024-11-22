@@ -1,0 +1,31 @@
+--[[
+Leaked from h1onpickles Discord
+
+Discord Server ID: 1242003787376492586
+]]
+
+local speedhack = {
+    speed = 35,
+    up = 4,
+    down = 0,
+    cooldown = false,
+    keycode = Enum.KeyCode,
+    middle = Workspace.Ignore.LocalCharacter.Middle
+}
+
+local UserInputService = game:GetService("UserInputService")
+
+local running = UserInputService:IsKeyDown(speedhack.keycode.LeftShift)
+local walking = UserInputService:IsKeyDown(speedhack.keycode.W)
+local view = Camera.CFrame
+local sliding = UserInputService:IsKeyDown(speedhack.keycode.C)
+if running and sliding and walking then
+    if not speedhack.cooldown then
+        speedhack.cooldown = true
+        speedhack.middle.CFrame = speedhack.middle.CFrame + Vector3.new(0, speedhack.up, 0)
+    end
+    speedhack.middle.AssemblyLinearVelocity = Vector3.new(0, speedhack.down, 0)
+    speedhack.middle.AssemblyLinearVelocity = speedhack.middle.LookVector * speedhack.speed
+else
+    speedhack.cooldown = false
+end
